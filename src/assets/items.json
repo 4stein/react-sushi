@@ -1,0 +1,102 @@
+[
+  {
+    "id": "0",
+    "imageUrl": "https://sushi-point.com.ua/uploads/product/big/filadelfiya-set.jpg",
+    "title": "Pepperoni Fresh",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 803,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": "1",
+    "imageUrl": "https://sushi-point.com.ua/uploads/product/normal/446x334xpivnoj-roll.jpg.pagespeed.ic.68i27EyLVD.webp",
+    "title": "Cheese",
+    "types": [0],
+    "sizes": [26, 40],
+    "price": 245,
+    "category": 3,
+    "rating": 6
+  },
+  {
+    "id": "2",
+    "imageUrl": "https://sushi-point.com.ua/uploads/product/normal/446x334xsushi-tort-l.jpg.pagespeed.ic.SV1H96BVet.webp",
+    "title": "Barbecue chicken",
+    "types": [0],
+    "sizes": [26, 40],
+    "price": 295,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": "3",
+    "imageUrl": "https://sushi-point.com.ua/uploads/product/normal/446x334xtochi-chiken.jpg.pagespeed.ic.GE4R3fDUbi.webp",
+    "title": "Sweet and sour chicken",
+    "types": [1],
+    "sizes": [26, 30, 40],
+    "price": 275,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "id": "4",
+    "imageUrl": "https://sushi-point.com.ua/uploads/product/normal/446x334xsyrnyj-roll-hot.jpg.pagespeed.ic.JHq59PwVWs.webp",
+    "title": "Cheeseburger-pizza",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 415,
+    "category": 3,
+    "rating": 8
+  },
+  {
+    "id": "5",
+    "imageUrl": "https://sushi-point.com.ua/uploads/product/normal/446x334xbig-point.jpg.pagespeed.ic.9giqKxZ3dH.webp",
+    "title": "Crazy pepperoni",
+    "types": [0],
+    "sizes": [30, 40],
+    "price": 580,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "id": "6",
+    "imageUrl": "https://sushi-point.com.ua/uploads/product/normal/446x334xteriyaki.jpg.pagespeed.ic.H53tFV6hWz.webp",
+    "title": "Pepperoni",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 675,
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": "7",
+    "imageUrl": "https://sushi-point.com.ua/uploads/product/normal/446x334xroll-smile.jpg.pagespeed.ic.kYhffXVlXj.webp",
+    "title": "Margarita",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 450,
+    "category": 4,
+    "rating": 10
+  },
+  {
+    "id": "8",
+    "imageUrl": "https://sushi-point.com.ua/uploads/product/normal/446x334xfiladelfiya-vega.jpg.pagespeed.ic.5QwWAwc9dc.webp",
+    "title": "Four seasons",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 395,
+    "category": 5,
+    "rating": 10
+  },
+  {
+    "id": "9",
+    "imageUrl": "https://sushi-point.com.ua/uploads/product/normal/446x334xfiladelfiya-original.jpg.pagespeed.ic.i7PxTcxWDR.webp",
+    "title": "Vegetables and mushrooms",
+    "types": [0, 1],
+    "sizes": [26, 30, 40],
+    "price": 285,
+    "category": 1,
+    "rating": 7
+  }
+]
