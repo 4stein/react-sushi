@@ -1,4 +1,4 @@
-# React Sushi Internet store app 
+# React sushi internet store app 
 React, Redux-Toolkit, Redux-Saga, TypeScript
 
 ## Available scripts to start application
